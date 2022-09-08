@@ -211,3 +211,6 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/69%20Day
 
 Dia 70: Como implantar seu aplicativo da Web com o Heroku
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/70%20Day
+
+Dia 71: Data Exploration with Pandas: College Major v.s. Your Salary
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/71%20Day
