@@ -208,3 +208,6 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/68%20Day
 
 Dia 69: Projeto Capstone do Blog Parte 4 - Adicionando usuários
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/69%20Day
+
+Dia 70: Como implantar seu aplicativo da Web com o Heroku
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/70%20Day
