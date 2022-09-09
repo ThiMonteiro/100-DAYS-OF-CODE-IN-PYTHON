@@ -214,3 +214,6 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/70%20Day
 
 Dia 71: Data Exploration with Pandas: College Major v.s. Your Salary
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/71%20Day
+
+Dia 72: Visualização de dados com Matplotlib: linguagens de programação
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/72%20Day
