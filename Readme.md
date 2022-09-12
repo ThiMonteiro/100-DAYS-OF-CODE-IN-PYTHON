@@ -217,3 +217,6 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/71%20Day
 
 Dia 72: Visualização de dados com Matplotlib: linguagens de programação
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/72%20Day
+
+Dia 73: Agregar e mesclar dados com Pandas: analise o conjunto de dados LEGO
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/73%20Day
