@@ -220,3 +220,6 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/72%20Day
 
 Dia 73: Agregar e mesclar dados com Pandas: analise o conjunto de dados LEGO
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/73%20Day
+
+Dia 74: Dados do Google Trends: reamostragem e visualização de séries temporais
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/74%20Day
