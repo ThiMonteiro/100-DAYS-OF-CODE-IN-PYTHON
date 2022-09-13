@@ -223,3 +223,6 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/73%20Day
 
 Dia 74: Dados do Google Trends: reamostragem e visualização de séries temporais
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/74%20Day
+
+Dia 75: Belos gráficos de plotagem e análise da Android App Store
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/75%20Day
