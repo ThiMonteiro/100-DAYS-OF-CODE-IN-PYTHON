@@ -226,3 +226,6 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/74%20Day
 
 Dia 75: Belos gráficos de plotagem e análise da Android App Store
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/75%20Day
+
+Dia 76: Computação com matrizes NumPy e N-Dimensional
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/76%20Day
