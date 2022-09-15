@@ -232,3 +232,6 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/76%20Day
 
 Dia 77: Regressão linear e visualização de dados com Seaborn
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/77%20Day
+
+Dia 78: Analisando o Prêmio Nobel com Plotly, Matplotlib & Seaborn
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/78%20Day
