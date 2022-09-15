@@ -235,3 +235,6 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/77%20Day
 
 Dia 78: Analisando o Prêmio Nobel com Plotly, Matplotlib & Seaborn
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/78%20Day
+
+Dia 79: A trágica descoberta da lavagem das mãos: testes t e distribuições
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/79%20Day
