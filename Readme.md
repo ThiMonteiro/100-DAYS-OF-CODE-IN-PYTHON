@@ -241,3 +241,6 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/79%20Day
 
 Dia 80: Projeto Capstone - Prever os preços das casas
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/80%20Day
+
+Dia 81: Projeto de portfólio - [Scripts Python]
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/81%20Day
