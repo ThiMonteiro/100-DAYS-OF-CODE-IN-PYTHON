@@ -250,3 +250,6 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/82%20Day
 
 Dia 83: Projeto de portfólio - [Scripts Python] 
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/83%20Day
+
+Dia 84: Aplicativo para desktop de marca d'água de imagem
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/84%20Day
