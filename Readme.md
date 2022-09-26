@@ -247,3 +247,6 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/81%20Day
 
 Dia 82: Projeto de portfólio - [Desenvolvimento Web em Python]
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/82%20Day
+
+Dia 83: Projeto de portfólio - [Scripts Python] 
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/83%20Day
