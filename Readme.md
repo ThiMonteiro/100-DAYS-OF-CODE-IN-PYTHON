@@ -253,3 +253,6 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/83%20Day
 
 Dia 84: Aplicativo para desktop de marca d'água de imagem
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/84%20Day
+
+Dia 85: Teste de velocidade de digitação
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/85%20Day
