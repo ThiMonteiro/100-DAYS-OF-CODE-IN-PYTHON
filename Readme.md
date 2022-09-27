@@ -256,3 +256,6 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/84%20Day
 
 Dia 85: Teste de velocidade de digitação
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/85%20Day
+
+Dia 86: Jogo de quebra-cabeça
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/86%20Day
