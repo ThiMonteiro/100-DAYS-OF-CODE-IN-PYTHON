@@ -1,0 +1,67 @@
+{% include "header.html" %}
+
+<!-- Page Header -->
+<header class="masthead"
+  style="background-image: url('https://images.unsplash.com/photo-1556741533-6e6a62bd8b49?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=668&q=80')">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="site-heading">
+          <h1>Cart</h1>
+          <span class="subheading">A collection of awesome stuff to buy.</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Main Content -->
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      {% for product in carrinho %}
+      <div class="post-preview">
+        <a href="{{ url_for('show_product', product_id=product['product'].id) }}">
+          <h2 class="post-title">
+            {{product['product'].title}}
+          </h2>
+          <h5 class="post-subtitle">
+            <span>Unit price: U$</span>
+            {{product['product'].price}}
+          </h5>
+          <h5 class="post-subtitle">
+            <span>Quantity: </span>
+            {{product['quantity']}}
+          </h5>
+          <h3 class="post-subtitle">
+            <span>Total price: U$</span>
+            {{product['product'].price|float * (product['quantity'])}}
+          </h3>
+          <a href="{{url_for('delete_product_from_cart', product_id=product['product'].id) }}" class="post-meta"> Remove from Cart ✘</a>
+        </a>
+
+
+        </p>
+      </div>
+      <hr>
+      {% endfor %}
+      {% if carrinho %}
+      <h2 align = "center">Total Cart: U$ {{soma}}</h2>
+      <br>
+      <a href="{{ url_for('checkout') }}">
+        <h1 class="post-title" align = "center">
+          BUY!
+        </h1>
+      {% else %}
+      <h2 class="post-title">
+        Carrinho Vazio.
+      </h2>
+      {% endif %}
+
+    </div>
+  </div>
+</div>
+<hr>
+
+{% include "footer.html" %}
