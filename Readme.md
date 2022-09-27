@@ -259,3 +259,45 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/85%20Day
 
 Dia 86: Jogo de quebra-cabeça
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/86%20Day
+
+Dia 87: Cafe & Wifi Website com SQLite
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/87%20Day
+
+Dia 88: Todo List - Lista de Tarefas
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/88%20Day
+
+Dia 89: Disappearing Text Writing App
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/89%20Day
+
+Dia 90: Convertendo PDF para AudioBook
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/90%20Day
+
+Dia 91: Gerador de Paleta de Cores baseado em Imagens do Usuário
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/91%20Day
+
+Dia 92: Web Scraping livre
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/92%20Day
+
+Dia 93: Automatizando o jogo do Dinossaurinho
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/93%20Day
+
+Dia 94: Space Invaders Game
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/94%20Day
+
+Dia 95: Website consumindo uma API
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/95%20Day
+
+Dia 96: Loja online com pagamento
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/96%20Day
+
+Dia 97: Automatizando alguma tarefa/atividade/algo
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/97%20Day
+
+Dia 98: Analyse and Visualise the Space Race
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/98%20Day
+
+Dia 99: Analyse Deaths involving Police in the US
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/99%20Day
+
+Dia 100: Predict Earnings using Multivariable Regression
+https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/100%20Day
