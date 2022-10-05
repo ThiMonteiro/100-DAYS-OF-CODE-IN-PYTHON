@@ -301,3 +301,5 @@ https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/99%20Day
 
 Dia 100: Predict Earnings using Multivariable Regression
 https://github.com/ThiMonteiro/100-DAYS-OF-CODE-IN-PYTHON/tree/main/100%20Day
+
+<img src="Thiago Monteiro - UC-6d996e60-7b96-4d75-923e-d13d545513e1.jpg">
